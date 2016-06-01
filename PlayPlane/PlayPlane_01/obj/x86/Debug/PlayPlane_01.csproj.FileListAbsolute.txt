@@ -1,0 +1,38 @@
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\bin\Debug\PlayPlane_01.exe
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\bin\Debug\PlayPlane_01.pdb
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\bin\Debug\Microsoft.DirectX.dll
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Form1.resources
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Properties.Resources.resources
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\obj\x86\Debug\PlayPlane_01.exe
+C:\Documents and Settings\wrx.ROBOTWELD\桌面\codefans.net\PlayPlane_01\obj\x86\Debug\PlayPlane_01.pdb
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.exe
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.pdb
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\bin\Debug\PlayPlane_01.exe
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\bin\Debug\Microsoft.DirectX.dll
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Form1.resources
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Properties.Resources.resources
+C:\Users\lenovo\Desktop\4649_0f26095d-8b35-4b5d-afaa-79d5514dba49\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.exe
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.pdb
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\bin\Debug\PlayPlane_01.exe
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\bin\Debug\PlayPlane_01.pdb
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\bin\Debug\Microsoft.DirectX.dll
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Form1.resources
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Properties.Resources.resources
+C:\Users\lenovo\Desktop\打飞机\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.csproj.GenerateResource.Cache
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.exe
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.pdb
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\bin\Debug\PlayPlane_01.exe
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\bin\Debug\PlayPlane_01.pdb
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.csprojResolveAssemblyReference.cache
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Form1.resources
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.Properties.Resources.resources
+E:\学习\大三下学期\软件工程\PlayPlane\PlayPlane_01\obj\x86\Debug\PlayPlane_01.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayPlane_01", "PlayPlane_01\PlayPlane_01.csproj", "{A95F0970-96CA-4725-92E4-1C16C91E5AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95F0970-96CA-4725-92E4-1C16C91E5AED}.Debug|x86.ActiveCfg = Debug|x86
+		{A95F0970-96CA-4725-92E4-1C16C91E5AED}.Debug|x86.Build.0 = Debug|x86
+		{A95F0970-96CA-4725-92E4-1C16C91E5AED}.Release|x86.ActiveCfg = Release|x86
+		{A95F0970-96CA-4725-92E4-1C16C91E5AED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
